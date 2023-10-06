@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+data/
+server/.env
+package-lock.json
+build
+drawio
+config
